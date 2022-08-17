@@ -1,4 +1,8 @@
-### Juyeori 👋
+<div align="center">
+  
+  ### Juyeori 👋
+ 
+ </div>
 
 <div align="center">
   
