@@ -1,6 +1,8 @@
 <div align="center">
   
   ### Juyeori 👋
+  
+  <img src="https://img.shield.io/badge/c-#A8B9CC?style=flat&logo=C&logoColor=white"/>
  
  </div>
 
