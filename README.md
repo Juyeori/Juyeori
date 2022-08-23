@@ -25,8 +25,4 @@
 
   ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyeori&layout=compact&theme=gruvbox)
 
-  #
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Juyeori)](https://solved.ac/Juyeori)<br/>
-
 </div>
