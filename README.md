@@ -24,4 +24,9 @@
   #
 
   ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyeori&layout=compact&theme=gruvbox)
+
+  #
+  
+  ![solve.ac](http://mazassumnida.wtf/api/generate_badge?boj=juyeori)]
+
 </div>
