@@ -27,6 +27,6 @@
 
   #
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=juyeori)](https://solved.ac/juyeori)<br/>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Juyeori)](https://solved.ac/Juyeori)<br/>
 
 </div>
