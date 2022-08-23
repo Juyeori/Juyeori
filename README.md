@@ -2,7 +2,7 @@
   
   ### Juyeori 👋
   
-  ![c](https://img.shield.io/badge/C-#A8B9CC?style=flat&logo=C&logoColor=white)
+  ![c](https://img.shield.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
   ![react](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
  
  </div>
