@@ -2,7 +2,9 @@
   
   ### Hi there 👋 I'm Juyeori 
   
-  I'm currently studying Front End with React.js
+  #
+  
+  😎I'm currently studying Front End with React.js😎
   
   
   ### Skill
