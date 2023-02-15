@@ -22,8 +22,7 @@
 <div align="center">
   #
   
-  [![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={dlwndus0728})](https://solved.ac/{dlwndus0728})
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={dlwndus0728})](https://solved.ac/{dlwndus0728})
 
   
   #
