@@ -2,7 +2,7 @@
   
   ### Hi there 👋 I'm Juyeori 
   
-  * I'm currently studying Front End with React.js
+  I'm currently studying Front End with React.js
   
   
   ### Skill
@@ -20,6 +20,7 @@
  </div>
 
 <div align="center">
+  
   #
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={dlwndus0728})](https://solved.ac/{dlwndus0728})
