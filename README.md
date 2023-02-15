@@ -28,6 +28,6 @@
   #
   
   [![Solved.ac
-dlwndus0728](http://mazassumnida.wtf/api/v2/generate_badge?boj={Juyeori})](https://solved.ac/{Juyeori})
+dlwndus0728](http://mazassumnida.wtf/api/v2/generate_badge?boj={dlwndus0728})](https://solved.ac/{dlwndus0728})
 
 </div>
