@@ -2,7 +2,7 @@
   
   ### Hi there 👋 I'm Juyeori 
   😎I'm currently studying Front End with React.js😎</br>
-  🌱I'm interested in `Web Development'🌱</br>
+  🌱I'm interested in `Web Development`🌱</br>
   🥇I majored in E-Business and Computer Science🥇
   
   
