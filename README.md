@@ -1,10 +1,13 @@
 <div align="center">
   
   ### Hi there 👋 I'm Juyeori 
-  😎I'm currently studying `Front End` with `React.js`😎</br>
-  🌱I'm interested in `Web Development`🌱</br>
-  🥇I majored in `E-Business` and `Computer Science`🥇
+  * 😎I'm currently studying `Front End` with `React.js`😎</br>
+  * 🌱I'm interested in `Web Development`🌱</br>
+  * 🥇I majored in `E-Business` and `Computer Science`🥇
   
+  #
+  ### Contact
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dlwndus0728@ajou.ac.kr) 
   
   #
   ### Skill
