@@ -9,7 +9,7 @@
   [![Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](http://juyeori.github.io/)
   
   #
-  ### Language
+  ### 🚀 Tech Stack 🚀
   ![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
   ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
@@ -20,18 +20,15 @@
   ![gnubash](https://img.shields.io/badge/shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
   ![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white)
   
-  
-  ### Framework
   ![react](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
   ![express](https://img.shields.io/badge/Express.js-000000?style=flat-square)
   ![caver](https://img.shields.io/badge/Caver.js-000111?style=flat-square)
   
-  ### Deployment Server & Database
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white)
   ![mongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![sql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
   
-  ### Tool
+  ### 🛠 Tool 🛠
   ![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)
   ![slack](https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white)
   ![figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
