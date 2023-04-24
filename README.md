@@ -18,6 +18,7 @@
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
   ![nodedotjs](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
   ![gnubash](https://img.shields.io/badge/shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+  ![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white)
   
   
   ### Framework
@@ -25,8 +26,7 @@
   ![express](https://img.shields.io/badge/Express.js-000000?style=flat-square)
   ![caver](https://img.shields.io/badge/Caver.js-000111?style=flat-square)
   
-  ### Server & Database
-  ![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white)
+  ### Deployment Server & Database
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white)
   ![mongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![sql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
