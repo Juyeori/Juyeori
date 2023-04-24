@@ -17,6 +17,8 @@
   ![html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
   ![nodedotjs](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+  ![gnubash](https://img.shields.io/badge/shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+  
   
   ### Framework
   ![react](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
