@@ -22,7 +22,7 @@
   ![express](https://img.shields.io/badge/Express-#000000?style=flat&logo=Express^logoColor=white)
   
   ### Database
-  ![mongoDB](https://img.shields.io/badge/mongoDB-#47A248?style=flat&logo=mongoDB&logoColor=white)
+  ![mongoDB](https://img.shields.io/badge/MongoDB-#47A248?style=flat&logo=MongoDB&logoColor=white)
   ![sql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
  
  </div>
