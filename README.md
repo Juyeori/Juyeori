@@ -19,10 +19,10 @@
   
   ### Framework
   ![react](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
-  ![express](https://img.shields.io/badge/Express-#000000?style=flat&logo=Express^logoColor=white)
+  ![express](https://img.shields.io/badge/Express.js-#000000?style=flat-square)
   
   ### Database
-  ![mongoDB](https://img.shields.io/badge/MongoDB-#47A248?style=flat&logo=MongoDB&logoColor=white)
+  ![mongoDB](https://img.shields.io/badge/MongoDB-#47A248?style=flat&logo=mongodb&logoColor=white)
   ![sql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
  
  </div>
