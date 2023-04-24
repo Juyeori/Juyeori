@@ -9,7 +9,7 @@
   [![Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](http://juyeori.github.io/)
   
   #
-  ### Skill
+  ### Language
   ![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
   ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
@@ -27,6 +27,13 @@
   ![mongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![sql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
  
+  ### Tool
+  ![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white)
+  ![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)
+  ![slack](https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white)
+  ![figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
+  
+  
  </div>
 
 <div align="center">
