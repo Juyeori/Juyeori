@@ -16,6 +16,7 @@
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
   ![nodedotjs](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
   ![sass](https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white)
+  
   ![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
   ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
   ![java](https://img.shields.io/badge/java-E34F26?style=flat&logo=java&logoColor=white)
@@ -30,10 +31,14 @@
   ![mongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![sql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
   
+  ---
+  
   ### 🛠 Tool 🛠
   ![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)
   ![slack](https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white)
+  
   ![figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
+  ![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
   
   
  </div>
