@@ -25,12 +25,13 @@
   ![express](https://img.shields.io/badge/Express.js-000000?style=flat-square)
   ![caver](https://img.shields.io/badge/Caver.js-000111?style=flat-square)
   
-  ### Database
+  ### Server & Database
+  ![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white)
   ![mongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![sql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
- 
+  
   ### Tool
-  ![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white)
   ![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)
   ![slack](https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white)
   ![figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
