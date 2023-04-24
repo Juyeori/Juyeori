@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&fontAlign=70%rotate=13&fontAlignY=25&section=header&text=I'm%20Juyeori&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&fontAlign=70%rotate=13&fontAlignY=25&section=header&desc=I'm%20Juyeori&descAlign=70.&descAlignY=44&fontSize=40" />
 <div align="center">
   
   ### Hi there 👋 I'm Juyeori 
