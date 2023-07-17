@@ -10,7 +10,8 @@
  
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dlwndus0728@ajou.ac.kr) 
   [![Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](http://juyeori.github.io/)
-  
+
+  <!--
   #
   ### 🚀 Tech Stack 🚀
   
@@ -50,7 +51,7 @@
   
   
  </div>
-
+-->
 ---
 
 <div align="center">
