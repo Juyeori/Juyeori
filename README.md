@@ -1,6 +1,6 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi,there&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Juyeori.&descAlign=70.&descAlignY=44)
 
-<div align="center">
+<div>
   
   ### 👋 Who am I?
   * 🌱I'm interested in `Web Development`🌱</br>
