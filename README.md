@@ -2,10 +2,11 @@
 
 <div align="center">
   
-  ### 👋 
-  * 😎I'm currently studying `Front End` with `React.js`😎</br>
+  ### 👋 Who am I?
   * 🌱I'm interested in `Web Development`🌱</br>
-  * 🥇I majored in `E-Business` and `Computer Science`🥇
+  * 🥇I majored in `E-Business` and `Computer Science`🥇 <br/>
+  * 😎I'm studied `Front End` with `React.js`😎</br>
+  * ⚡I'm currently studying 'Back End' with 'Spring Boot'⚡
  
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dlwndus0728@ajou.ac.kr) 
   [![Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](http://juyeori.github.io/)
