@@ -60,6 +60,8 @@
 ---
 
 <div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndus0728)](https://solved.ac/dlwndus0728)
+  
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndus0728)](https://solved.ac/dlwndus0728)
+  
   ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyeori&layout=compact&theme=radical)
 </div>
