@@ -42,13 +42,9 @@
   ![gnubash](https://img.shields.io/badge/shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
   ![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white)
   
-  
-  ---
-  
   ### 🛠 Tool 🛠
   ![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)
   ![slack](https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white)
-  
   ![figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
   ![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
   
