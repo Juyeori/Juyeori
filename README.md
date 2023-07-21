@@ -33,7 +33,7 @@
   
   ### Web Back-End Framework
   ![express](https://img.shields.io/badge/Express.js-000000?style=flat-square)
-  ![spring](https://img.shields.io/badge/spring-6DB33F?style=flat-square)
+  ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square)
 
   ### DB
   ![mongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
