@@ -2,7 +2,7 @@
 
 <div>
   
-  ### 👋 Who am I?
+  ## 👋 Who am I?
   * 🌱I'm interested in `Web Development`🌱</br>
   * 🥇I majored in `E-Business` and `Computer Science`🥇 <br/>
   * 😎I'm studied `Front End` with `React.js`😎</br>
@@ -11,9 +11,7 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dlwndus0728@ajou.ac.kr) 
   [![Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](http://juyeori.github.io/)
 
-
-  #
-  ### 🚀 Tech Stack 🚀
+  ## 🚀 Tech Stack 🚀
   ### Language
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
   ![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
