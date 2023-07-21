@@ -28,7 +28,7 @@
   ![nodedotjs](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 -->
   ![react](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
-  ![vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue&logoColor=#4FC08D)
+  ![vue](https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&logo=vuedotjs&logoColor=#4FC08D)
   ![caver](https://img.shields.io/badge/Caver.js-000111?style=flat-square)
   
   ### Web Back-End Framework
@@ -61,7 +61,8 @@
 
 <div>
   
-  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndus0728)](https://solved.ac/dlwndus0728)
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndus0728)]
   
   ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyeori&layout=compact&theme=radical)
+  
 </div>
