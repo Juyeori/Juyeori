@@ -5,21 +5,31 @@
   ## 👋 Who am I?
   * I'm interested in `Web Development`</br>
   * I majored in `E-Business` and `Computer Science` <br/>
-  * 😎I'm studied `Front End` with `React.js`😎</br>
-  * ⚡I'm currently studying `Back End` with `Spring Boot`⚡
-    
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dlwndus0728@ajou.ac.kr) 
-  [![Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](http://juyeori.github.io/)
+
+  ## 😎 I'm academically interesed in...
+  * I studied `Front End` with `React.js`
+  * I'm currently studying `Back End` with `Spring Boot`
+
+  ## ⚡ My goal...
+  * In connection with the web, I want to be a developer who can make good use of other `convergence industries` (ex. Blockchain, AI...).
 
   ## 🌱 I did...
-  * Developed a database of restaurants assuming that they were about to be franchised (2022.03 ~ 2022.06)
-  * Development of a summary model using the BertSum model and the 'Paper/Patent Summary Dataset' and presentation of a plan to utilize the education service platform (2022.03 ~ 2022.04) 🥇Korea Smart Media Association AI Hub Learning Data Commercialization Idea Hackathon - Prize🥇
-  * Analysis of product reviews that are effective in improving quality through topic modeling and Bert model-based emotional analysis (2022.04 ~ 2022.05) 🥇Korea Quality Management Association Spring Conference - Excellence Prize🥇
-  * Development of Blockchain NFT-based Electronic Blood Donation Card Web Service (2022.07 ~ 2022.12)🥇Ajou Univ student design project - Turning Point Award🥇 ![](https://news.kbs.co.kr/news/view.do?ncd=5626344)
-  * Development of an AI model-based scalp diagnosis app (2023.03 ~ 2023.06)
+  * Developed `a database of restaurants` assuming that they were about to be franchised (2022.03 ~ 2022.06)
+  * Development of `a summary model` using `the BertSum model and the 'Paper/Patent Summary Dataset'` and presentation of a plan to utilize the education service platform (2022.03 ~ 2022.04)
+    - 🥇Korea Smart Media Association AI Hub Learning Data Commercialization Idea Hackathon - Prize🥇
+  * `Analysis of product reviews` that are effective in improving quality through `topic modeling and Bert model-based emotional analysis` (2022.04 ~ 2022.05)
+    - 🥇Korea Quality Management Association Spring Conference - Excellence Prize🥇
+  * Development of `Blockchain NFT`-based `Electronic Blood Donation Card Web Service` (2022.07 ~ 2022.12)
+    - 🥇Ajou Univ student design project - Turning Point Award🥇 ![](https://news.kbs.co.kr/news/view.do?ncd=5626344)
+  * Development of an `AI model-based scalp diagnosis app` (2023.03 ~ 2023.06)
   * SSAFY - 10th (2023.07 ~ )
   
+  ## How to contact me...
+  * email : [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dlwndus0728@ajou.ac.kr) 
+  * blog : [![Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](http://juyeori.github.io/)
 
+  ---
+  
   ## 🚀 Tech Stack 🚀
   ### Language
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
