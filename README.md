@@ -6,9 +6,9 @@
   * I'm interested in `Web Development`</br>
   * I majored in `E-Business` and `Computer Science` <br/>
 
-  ## 😎 I'm academically interesed in...
+  ## 😎 I'm interesed in...
   * I studied `Front End` with `React.js`
-  * And, I did `Back End` with 'Express.js'.
+  * And, I did `Back End` with `Express.js`.
   * I'm currently studying `Back End` with `Spring Boot`
 
   ## ⚡ My goal...
