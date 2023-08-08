@@ -12,7 +12,8 @@
   * I'm currently studying `Back End` with `Spring Boot`
 
   ## ⚡ My goal...
-  * I want to be a `web developer` who can make good use of other `4th convergence industries` (ex. Blockchain, AI...).
+  * I studied while looking at the forest until now, but now I want to see the trees.
+  * And I want to be a `web developer` who can make good use of other `4th convergence industries` (ex. Blockchain, AI...).
 
   ## 🌱 I did...
   * Developed `a database of restaurants` assuming that they were about to be franchised (2022.03 ~ 2022.06)
