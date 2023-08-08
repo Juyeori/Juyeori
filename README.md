@@ -12,7 +12,7 @@
   * I'm currently studying `Back End` with `Spring Boot`
 
   ## ⚡ My goal...
-  * In the past, I studied while looking at the forest, but in the future, I want to see trees and eventually become a developer who can see forests and trees accurately.
+  * In the past, I studied while looking at the forest, but in the future, I want to see trees and eventually become a `developer who can see forests and trees accurately`.
   * And I want to be a `web developer` who can make good use of other `4th convergence industries` (ex. Blockchain, AI...).
 
   ## 🌱 I did...
