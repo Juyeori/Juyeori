@@ -65,6 +65,7 @@
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white)
   ![gnubash](https://img.shields.io/badge/shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
   ![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white)
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
   
   ### 🛠 Tool 🛠
   ![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)
