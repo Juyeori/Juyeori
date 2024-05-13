@@ -11,10 +11,6 @@
   * And, I did `Back End` with `Express.js`.
   * I'm currently studying `Back End` with `Spring Boot`
 
-  ## ⚡ My goal...
-  * In the past, I studied while looking at the forest, but in the future, I want to see trees and eventually become a `developer who can see forests and trees accurately`.
-  * And I want to be a `web developer` who can make good use of other `4th convergence industries` (ex. Blockchain, AI...).
-
   ## 🌱 I did...
   * Developed `a database of restaurants` assuming that they were about to be franchised (2022.03 ~ 2022.06)
   * Development of `a summary model` using `the BertSum model and the 'Paper/Patent Summary Dataset'` and presentation of a plan to utilize the education service platform (2022.03 ~ 2022.04)
@@ -27,6 +23,8 @@
     - [https://news.kbs.co.kr/news/view.do?ncd=5626344]
   * Development of an `AI model-based scalp diagnosis app` (2023.03 ~ 2023.06)
   * SSAFY - 10th (2023.07 ~ )
+    - 🥇공통 프로젝트(WebRTC, WebSocket) : 실시간 배틀 퍼즐 게임 - 1st🥇
+    - 🥇특화 프로젝트(NFT) : NFT 보드 게임 - 1st🥇  
   
   ## How to contact me...
   * email : [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dlwndus0728@ajou.ac.kr) 
@@ -41,7 +39,7 @@
   ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
   ![java](https://img.shields.io/badge/java-E34F26?style=flat&logo=java&logoColor=white)
   
-  ### Web Front-End Framework
+  ### Web Front-End
 <!--  
   ![html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
@@ -51,7 +49,7 @@
   ![react](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
   ![vue](https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&logo=vuedotjs&logoColor=#4FC08D)
   
-  ### Web Back-End Framework
+  ### Web Back-End
   ![caver](https://img.shields.io/badge/Caver.js-000111?style=flat-square)
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
