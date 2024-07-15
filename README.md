@@ -24,6 +24,7 @@
   * [특허] 헌혈 정보의 통합 관리 방법, 이를 이용하는 서버 및 시스템 (출원) (2월, 2023)
   * [프로그램] 두픽(AI 두피 진단 앱) (등록) (9월, 2023)
 
+<!--
   <div align='center'>
     
   ## How to contact me
@@ -32,9 +33,9 @@
   blog : [![Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](http://juyeori.github.io/)
 
   </div>
-  
-  <div align='center'>
-    
+  -->
+  <div>
+
   ## 🚀 Tech Stack
     
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
