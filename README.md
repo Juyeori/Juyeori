@@ -7,22 +7,22 @@
   * 2023.07 ~ 2024.06 : Samsung Software Academy For Youth(SSAFY) 10th
 
   ## 🌱 Project
-  * [과제 채점 크롤러 개발](https://github.com/Juyeori/bbSelenium) - 2022.03 ~ 2022.03
-  * [블록체인(NFT) 전자헌혈증 웹 서비스 개발](https://github.com/Juyeori/paran_bloodchain) - 2022.07 ~ 2022.12
-  * [AI 두피 진단 앱 서비스 개발](https://github.com/Juyeori/DoPic) - 2023.03 ~ 2023.06
-  * [여행 커뮤니티 웹 서비스 개발](https://github.com/Juyeori/JYTRIP) - 2023.11 ~ 2023.11
-  * [실시간 배틀 퍼즐 게임 웹 서비스 개발](https://github.com/PuzzlePop/PuzzlePop-BE) - 2024.01 ~ 2024.02
-  * [블록체인(NFT) 3D 보드게임 웹 서비스 개발](https://github.com/Sea-of-Secrets/sos) - 2024.02 ~ 2024.04
-  * [OAuth2.0 표준 인증, 인가 및 모니터링 시스템 개발](https://github.com/Juyeori/SSAFYOAuth) - 2024.04 ~ 2024.05
+  * 2022.03 ~ 2022.03 : [과제 채점 크롤러 개발](https://github.com/Juyeori/bbSelenium)
+  * 2022.07 ~ 2022.12 : [블록체인(NFT) 전자헌혈증 웹 서비스 개발](https://github.com/Juyeori/paran_bloodchain) 
+  * 2023.03 ~ 2023.06 : [AI 두피 진단 앱 서비스 개발](https://github.com/Juyeori/DoPic) 
+  * 2023.11 ~ 2023.11 : [여행 커뮤니티 웹 서비스 개발](https://github.com/Juyeori/JYTRIP) 
+  * 2024.01 ~ 2024.02 : [실시간 배틀 퍼즐 게임 웹 서비스 개발](https://github.com/PuzzlePop/PuzzlePop-BE) 
+  * 2024.02 ~ 2024.04 : [블록체인(NFT) 3D 보드게임 웹 서비스 개발](https://github.com/Sea-of-Secrets/sos) 
+  * 2024.04 ~ 2024.05 : [OAuth2.0 표준 인증, 인가 및 모니터링 시스템 개발](https://github.com/Juyeori/SSAFYOAuth) 
 
   ## 📗 Certificate
-  * Advanced Data Analytics Semi-Professional(2019.12.24)
-  * HSAT-LV.3(현대자동차그룹 softeer 알고리즘 역량 평가)(2023.08.25)
-  * SQL Developer(2024.04.05)
+  * 2019.12 : Advanced Data Analytics Semi-Professional
+  * 2023.08 : HSAT-LV.3(현대자동차그룹 softeer 알고리즘 역량 평가)
+  * 2024.04 : SQL Developer
 
   ## 👨‍💼 IP
-  * [특허] 헌혈 정보의 통합 관리 방법, 이를 이용하는 서버 및 시스템 (출원) (2월, 2023)
-  * [프로그램] 두픽(AI 두피 진단 앱) (등록) (9월, 2023)
+  * 2023.02 : [특허] 헌혈 정보의 통합 관리 방법, 이를 이용하는 서버 및 시스템 (출원)
+  * 2023.09 : [프로그램] 두픽(AI 두피 진단 앱) (등록)
 
 <!--
   <div align='center'>
