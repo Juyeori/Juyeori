@@ -2,81 +2,75 @@
 
 <div>
   
-  ## 👋 Who am I?
-  * I'm interested in `Web Development`</br>
-  * I majored in `E-Business` and `Computer Science` <br/>
+  ## 👋 About me
+  * 2018.03 ~ 2023.08 : Ajou Univ.
+  * 2023.07 ~ 2024.06 : Samsung Software Academy For Youth(SSAFY) 10th
 
-  ## 😎 I'm interesed in...
-  * I studied `Front End` with `React.js`
-  * And, I did `Back End` with `Express.js`.
-  * I'm currently studying `Back End` with `Spring Boot`
+  ## 🌱 Project
+  * [과제 채점 크롤러 개발](https://github.com/Juyeori/bbSelenium) - 2022.03 ~ 2022.03
+  * [블록체인(NFT) 전자헌혈증 웹 서비스 개발](https://github.com/Juyeori/paran_bloodchain) - 2022.07 ~ 2022.12
+  * [AI 두피 진단 앱 서비스 개발](https://github.com/Juyeori/DoPic) - 2023.03 ~ 2023.06
+  * [여행 커뮤니티 웹 서비스 개발](https://github.com/Juyeori/JYTRIP) - 2023.11 ~ 2023.11
+  * [실시간 배틀 퍼즐 게임 웹 서비스 개발](https://github.com/PuzzlePop/PuzzlePop-BE) - 2024.01 ~ 2024.02
+  * [블록체인(NFT) 3D 보드게임 웹 서비스 개발](https://github.com/Sea-of-Secrets/sos) - 2024.02 ~ 2024.04
+  * [OAuth2.0 표준 인증, 인가 및 모니터링 시스템 개발](https://github.com/Juyeori/SSAFYOAuth) - 2024.04 ~ 2024.05
 
-  ## 🌱 I did...
-  * Developed `a database of restaurants` assuming that they were about to be franchised (2022.03 ~ 2022.06)
-  * Development of `a summary model` using `the BertSum model and the 'Paper/Patent Summary Dataset'` and presentation of a plan to utilize the education service platform (2022.03 ~ 2022.04)
-    - 🥇Korea Smart Media Association AI Hub Learning Data Commercialization Idea Hackathon - Prize🥇
-  * `Analysis of product reviews` that are effective in improving quality through `topic modeling and Bert model-based emotional analysis` (2022.04 ~ 2022.05)
-    - 🥇Korea Quality Management Association Spring Conference - Excellence Prize🥇
-  * Development of `Blockchain NFT` based `Electronic Blood Donation Card Web Service` (2022.07 ~ 2022.12)
-    - 🥇Ajou Univ student design project called "파란 학기" - Turning Point Award🥇
-    - `Patent` : Method for intergrating and managing blood donation information, server and system using
-    - [https://news.kbs.co.kr/news/view.do?ncd=5626344]
-  * Development of an `AI model-based scalp diagnosis app` (2023.03 ~ 2023.06)
-  * SSAFY - 10th (2023.07 ~ )
-    - 🥇공통 프로젝트(WebRTC, WebSocket) : 실시간 배틀 퍼즐 게임 - 1st🥇
-    - 🥇특화 프로젝트(NFT) : NFT 보드 게임 - 1st🥇  
+  ## 📗 Certificate
+  * Advanced Data Analytics Semi-Professional(2019.12.24)
+  * HSAT-LV.3(현대자동차그룹 softeer 알고리즘 역량 평가)(2023.08.25)
+  * SQL Developer(2024.04.05)
+
+  ## 👨‍💼 IP
+  * [특허] 헌혈 정보의 통합 관리 방법, 이를 이용하는 서버 및 시스템 (출원) (2월, 2023)
+  * [프로그램] 두픽(AI 두피 진단 앱) (등록) (9월, 2023)
+
+  <div align='center'>
+    
+  ## How to contact me
   
-  ## How to contact me...
-  * email : [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dlwndus0728@ajou.ac.kr) 
-  * blog : [![Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](http://juyeori.github.io/)
+  email : [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dlwndus0728@ajou.ac.kr) <br/>
+  blog : [![Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](http://juyeori.github.io/)
 
-  ---
+  </div>
   
-  ## 🚀 Tech Stack 🚀
-  ### Language
+  <div align='center'>
+    
+  ## 🚀 Tech Stack
+    
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-  ![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
   ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
   ![java](https://img.shields.io/badge/java-E34F26?style=flat&logo=java&logoColor=white)
-  
-  ### Web Front-End
-<!--  
-  ![html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
-  ![sass](https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white)
-  ![nodedotjs](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
--->
+
   ![react](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
   ![vue](https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&logo=vuedotjs&logoColor=#4FC08D)
-  
-  ### Web Back-End
   ![caver](https://img.shields.io/badge/Caver.js-000111?style=flat-square)
+
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 
-  ### DB
   ![mongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-  
-  ### etc
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white">
+
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white)
   ![gnubash](https://img.shields.io/badge/shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
   ![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white)
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+  </div>
   
-  ### 🛠 Tool 🛠
-  ![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)
-  ![slack](https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white)
-  ![figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
-  ![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
   
   
  </div>
 
 ---
 
-<div float='left'>
+<div align='center'>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndus0728)](https://solved.ac/profile/dlwndus0728)
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dlwndus0728&theme=cold)
