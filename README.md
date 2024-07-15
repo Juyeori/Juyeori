@@ -73,10 +73,7 @@
 <div align='center'>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndus0728)](https://solved.ac/profile/dlwndus0728)
-  
-  ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyeori&layout=compact&theme=radical)
-
-<!--
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dlwndus0728&theme=cold)
-  -->
+  ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyeori&layout=compact&theme=radical)
+  
 </div>
