@@ -76,5 +76,8 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndus0728)](https://solved.ac/profile/dlwndus0728)
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dlwndus0728&theme=cold)
   ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyeori&layout=compact&theme=radical)
+
+    
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJuyeori&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
