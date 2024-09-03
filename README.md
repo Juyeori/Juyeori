@@ -3,7 +3,6 @@
 <div>
   
   ## 👋 About me
-  * 2018.03 ~ 2023.08 : Ajou Univ.
   * 2023.07 ~ 2024.06 : Samsung Software Academy For Youth(SSAFY) 10th
 
   ## 🌱 Project
