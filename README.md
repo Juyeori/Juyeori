@@ -18,6 +18,7 @@
   * 2019.12 : Advanced Data Analytics Semi-Professional
   * 2023.08 : HSAT-LV.3(현대자동차그룹 softeer 알고리즘 역량 평가)
   * 2024.04 : SQL Developer
+  * 2024.09 : 정보처리기사
 
   ## 👨‍💼 IP
   * 2023.02 : [특허] 헌혈 정보의 통합 관리 방법, 이를 이용하는 서버 및 시스템 (출원)
