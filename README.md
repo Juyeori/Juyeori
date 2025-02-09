@@ -4,6 +4,7 @@
   
   ## 👋 About me
   * 2023.07 ~ 2024.06 : Samsung Software Academy For Youth(SSAFY) 10th
+  * 2024.12 ~ : KB Kookmin Bank
 
   ## 🌱 Project
   * 2022.03 ~ 2022.03 : [과제 채점 크롤러 개발](https://github.com/Juyeori/bbSelenium)
